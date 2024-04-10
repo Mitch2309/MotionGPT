@@ -1,0 +1,2 @@
+# MotionGPT
+Bachelor AI project
