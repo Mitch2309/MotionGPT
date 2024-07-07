@@ -7,3 +7,11 @@ Download the prompt data (tabs called: GPTPrompt and DiffPrompt) from the spread
 
 Input the right file path and storage location in the code.
 Run separately for both the GPT prompt file and the Diffusion Prompt file.
+
+MotionGPT GitHub:
+https://motion- gpt.github.io/ 
+
+Google Drive: 
+https://drive.google.com/drive/folders/1CHdIUWuEOGpwppX72EEuWY_ zYtjO03XN?usp=sharing
+
+
